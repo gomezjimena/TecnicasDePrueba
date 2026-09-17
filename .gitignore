@@ -1,0 +1,10 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Compilación
+out/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
